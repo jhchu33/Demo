@@ -8,7 +8,7 @@ public class InfoBean implements Bean {
 
     private String sex;
 
-    private Integer age;
+    private Integer age1;
 
 
     public InfoBean(Integer id, String name, String sex, Integer age) {
